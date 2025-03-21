@@ -1,1 +1,1 @@
-# Python-Projeler
+# Python-Örnekler
